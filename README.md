@@ -161,9 +161,9 @@
 
 <span>&#8618;</span> Let's Connect 🙋
 <p align="center">
-    <a href="https://instagram.com/myself_manav_"><img src="https://icons8.com/icon/119026/instagram"
+    <a href="https://instagram.com/myself_manav_"><img src="https://e7.pngegg.com/pngimages/100/20/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta.png"
             alt="Instagram" /></a>
-    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q"><img src="https://icons8.com/icon/19318/youtube"
+    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q"><img src=""
             alt="Youtube" /></a>
 
 </p>
