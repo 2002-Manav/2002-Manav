@@ -91,40 +91,24 @@
 <span>&#8618;</span> Social Media 🔗
 <br>
 <p align='center'>
-    <a href="mailto:manavmadlani49@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/myself_manav_" target="_blank">
         <img
             src="https://img.shields.io/badge/myself_manav_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
         <img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
+    <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
         <img
-            src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-        <img
-            src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
-    </a>&nbsp;&nbsp;
+            src="https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q">
 </p>
 <br>
 
 <span>&#8618;</span> Hosting 🌎
 <br>
 <p align='center'>
-    <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0"
-        class="giphy-embed" allowFullScreen></img>
-</p>
-<br>
-<p align='center'>
     <img
-        src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
+        src="">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
@@ -197,26 +181,19 @@
 <span>&#8618;</span> Github Contributions 📈
 <br>
 <p align='center'>
-    <img src="https://activity-graph.herokuapp.com/graph?username=yesbhautik&theme=react-dark&hide_border=true">
+    <img src="">
 <p>
 
     
 
-   <span>&#8618;</span> Just a snake eating my contributions 🐍
-    
-<p align='center'>
-    <img
-        src="https://raw.githubusercontent.com/yesbhautik/yesbhautik/8de22b72427c91cfcc0df29b3f601acfc2e1e820/github-user-contribution.svg">
-</p>
-
-<hr>
+  
 <br>
 
 <span>&#8618;</span> Waka Time Stats 🕰
 <br>
 <p align='center'>
     <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=@cba3b28e-0618-4a0e-bb4c-7e9c0edf18f9&theme=github_dark">
+        src="">
 </p>
 
 <hr>
