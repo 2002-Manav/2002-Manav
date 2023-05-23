@@ -1,18 +1,15 @@
 <p align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200" />
+    <img src="https://cdn.dribbble.com/users/1563393/screenshots/6594875/desk_guy_test_2.gif" height="200" />
 </p>
-<hr>
 
-<h1 align="center">Hi , I'm Unknown <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hi , I'm Manav Madlani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 <p align="center">
     <a href=""</a>
 </p>
 <hr />
-<h4 align="center">I am a Student at IITE,Indus University, B.TECH in CE. I like to Code, Design, Debelop. I am an
-    enthusiastic and a social
-    person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, and
-    spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Student at IITE,Indus University, B.TECH in CE. I am passionate about coding, designing, and development. <br>
+                   I'm Eager to embrace challenges, learn, connect with diverse individuals, and share knowledge and positivity.</h4>
 <br>
 
 
@@ -29,8 +26,8 @@
 <br>
 
 <br>
-<p align='center'><img
-        src="http://github-readme-streak-stats.herokuapp.com?user=yesbhautik&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+<p align='center'>
+    <img src ="" alt="My Contribution"/>
 </p>
 
 <hr><br>
@@ -39,19 +36,10 @@
 <br>
 <hr>
 <br>
-<br>
-
-<span>&#8618;</span> Technology Stack 💻
-
-<p align='center'>
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0"
-        class="giphy-embed" allowFullScreen></img>
-</p>
 
 <span>&#8618;</span> Programming Languages 👨‍💻
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
@@ -59,9 +47,6 @@
         src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -70,10 +55,6 @@
 <p align='center'>
     <img
         src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -82,22 +63,17 @@
 <p align='center'>
     <img
         src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
 </p>
 <br>
 
 <span>&#8618;</span> IDEs/Editors 👨‍🔧
 <br>
 <p align="center">
-    <img
-        src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">&nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 </p>
@@ -115,12 +91,12 @@
 <span>&#8618;</span> Social Media 🔗
 <br>
 <p align='center'>
-    <a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
+    <a href="mailto:manavmadlani49@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/chinmay29hub" target="_blank">
+    <a href="https://www.instagram.com/myself_manav_" target="_blank">
         <img
-            src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+            src="https://img.shields.io/badge/myself_manav_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
         <img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
