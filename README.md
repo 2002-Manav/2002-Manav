@@ -26,9 +26,6 @@
 <br>
 
 <br>
-<p align='center'>
-    <img src ="" alt="My Contribution"/>
-</p>
 
 <hr><br>
 
@@ -128,7 +125,7 @@
 </p>
 <br>
 
-<span>&#8618;</span> ML/DL 🤖/🧠
+<span>&#8618;</span> ML & AI 🤖/🧠
 <br>
 <p align='center'>
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="270" height="174" frameBorder="0"
@@ -159,17 +156,10 @@
 <hr>
 <br>
 
-<span>&#8618;</span> Github Contributions 📈
-<br>
-<p align='center'>
-    <img src="">
-<p>
-<br>
-
 <hr>
 <br>
 
-<span>&#8618;</span> Let's Connect 🙋‍♀️
+<span>&#8618;</span> Let's Connect 🙋
 <p align="center">
     <a href="https://instagram.com/myself_manav_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png"
             alt="Instagram" /></a>
@@ -182,11 +172,7 @@
 <br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-
-
-<p align='center'>
-    <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0"
-        class="giphy-embed" allowFullScreen></img>
+2
 </p>
 <br>
 
