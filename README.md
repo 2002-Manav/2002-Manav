@@ -27,10 +27,7 @@
 <span>&#8618;</span> Github Contribution Streak 🔥
 <br>
 <br>
-<p align='center'>
-    <img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 <br>
 <p align='center'><img
         src="http://github-readme-streak-stats.herokuapp.com?user=yesbhautik&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
@@ -40,24 +37,8 @@
 
 <span>&#8618;</span> Github Stats &nbsp;📊
 <br>
-<p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=yesbhautik&show_icons=true&theme=github_dark">
-</p>
 <hr>
 <br>
-
-<span>&#8618;</span> Most Used Languages 📚
-<br>
-<p align='center'>
-    <img
-        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yesbhautik&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
-</p>
-<p align='center'>
-<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most
-    code on GitHub.</h6>
-</p>
-
-<hr>
 <br>
 
 <span>&#8618;</span> Technology Stack 💻
