@@ -90,8 +90,7 @@
 <p align='center'>
     <a href="https://www.instagram.com/myself_manav_" target="_blank">
         <img
-            src="https://img.shields.io/badge/myself_manav_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
         <img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
