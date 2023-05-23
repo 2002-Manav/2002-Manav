@@ -96,7 +96,7 @@
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
         <img
-            src="https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
+            src="https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=Youtube&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q">
 </p>
 <br>
@@ -172,11 +172,10 @@
 <br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-2
 </p>
 <br>
 
-<h2 align='center'>Thank You :)</h2>
+<h2 align='center'>Thank You 🙂</h2>
 
 
 
