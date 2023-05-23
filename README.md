@@ -131,7 +131,7 @@
 <span>&#8618;</span> ML/DL 🤖/🧠
 <br>
 <p align='center'>
-    <img src="https://media.giphy.com/media/QyJTDR8VkUtyKHNPm9/giphy.gif" width="270" height="174" frameBorder="0"
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="270" height="174" frameBorder="0"
         class="giphy-embed" allowFullScreen></img>
 </p>
 <br>
@@ -145,18 +145,6 @@
 </p>
 <br>
 
-<span>&#8618;</span> IOT 🔌
-<br>
-<p align='center'>
-    <img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="410" height="200" frameBorder="0"
-        class="giphy-embed" allowFullScreen></img>
-</p>
-<br>
-<p align='center'>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-<br>
-
 <span>&#8618;</span> Operating Systems 🐧
 <br>
 <p align='center'>
@@ -165,13 +153,6 @@
 </p>
 <br>
 <p align='center'>
-    <img
-        src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
@@ -183,36 +164,16 @@
 <p align='center'>
     <img src="">
 <p>
-
-    
-
-  
 <br>
-
-<span>&#8618;</span> Waka Time Stats 🕰
-<br>
-<p align='center'>
-    <img
-        src="">
-</p>
 
 <hr>
 <br>
 
 <span>&#8618;</span> Let's Connect 🙋‍♀️
 <p align="center">
-    <a href="https://www.youareunique.tech/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" */
-            alt="Website" /></a>
-    <a href="bhbavadiya2608@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" /></a>
-    <a href="https://github.com/yesbhautik"><img src="https://img.icons8.com/bubbles/50/000000/github.png"
-            alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/yesbhautik"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"
-            alt="LinkedIn" /></a>
-    <a href="https://www.facebook.com/yupbhautik"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"
-            alt="Facebook" /></a>
-    <a href="https://instagram.com/yesbhautik"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png"
+    <a href="https://instagram.com/myself_manav_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png"
             alt="Instagram" /></a>
-    <a href="https://www.youtube.com/c/TheSilentTech/"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png"
+    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png"
             alt="Youtube" /></a>
 
 </p>
@@ -229,7 +190,7 @@
 </p>
 <br>
 
-<h2 align='center'>Thank You!!!!!</h2>
+<h2 align='center'>Thank You :)</h2>
 
 
 
