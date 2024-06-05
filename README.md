@@ -71,7 +71,7 @@
 <span>&#8618;</span> IDEs/Editors 👨‍🔧
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
     <img
@@ -93,15 +93,10 @@
 <span>&#8618;</span> Social Media 🔗
 <br>
 <p align='center'>
-    <a href="https://www.instagram.com/myself_manav_" target="_blank">
+    <a href="https://www.instagram.com/manav__77" target="_blank">
         <img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
-        <img
-            src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q" target="_blank">
-        <img
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
@@ -145,14 +140,6 @@
 
 <hr>
 <br>
-
-<span>&#8618;</span> Let's Connect 🙋
-<p align="center">
-    <a href="https://instagram.com/myself_manav_"></a>
-
-</p>
-
-<hr>
 <br>
 
 <br>
