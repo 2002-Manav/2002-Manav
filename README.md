@@ -36,13 +36,13 @@
 <span>&#8618;</span> Programming Languages 👨‍💻
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -50,7 +50,13 @@
 <br>
 <p align='center'>
     <img
-        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/badge/material%20ui-0081CB?style=for-the-badge&logo=mui&logoColor=white">&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;
+    <img
+        src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -58,29 +64,29 @@
 <br>
 <p align='center'>
     <img
-        src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
 <span>&#8618;</span> IDEs/Editors 👨‍🔧
 <br>
 <p align="center">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=21D789">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
 <span>&#8618;</span> Version Control 🔧
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
@@ -89,13 +95,13 @@
 <p align='center'>
     <a href="https://www.instagram.com/myself_manav_" target="_blank">
         <img
-            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-        <img
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
         <img
-            src="https://img.shields.io/badge/YouTube-FF4500?style=for-the-badge&logo=Youtube&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q">
+            src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q" target="_blank">
+        <img
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
@@ -103,35 +109,23 @@
 <br>
 <p align='center'>
     <img
-        src="">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
     <img
-        src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+        src="https://img.shields.io/badge/github%20pages-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
 
 <span>&#8618;</span> Server 🗃️
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+    <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
 </p>
 <br>
 
 <span>&#8618;</span> Database 💾
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-<br>
-
-
-<br>
-<p align='center'>
-    <img
-        src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
-    <img
-        src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 <br>
 
@@ -154,18 +148,13 @@
 
 <span>&#8618;</span> Let's Connect 🙋
 <p align="center">
-    <a href="https://instagram.com/myself_manav_"><img src="https://e7.pngegg.com/pngimages/100/20/png-clipart-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta.png"
-            alt="Instagram" /></a>
-    <a href="https://www.youtube.com/channel/UCsFf6ED3rwtaFBFozCVpW3Q"><img src=""
-            alt="Youtube" /></a>
+    <a href="https://instagram.com/myself_manav_"></a>
 
 </p>
 
 <hr>
 <br>
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-</p>
 <br>
 
 <h2 align='center'>Thank You 🙂</h2>
