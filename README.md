@@ -124,12 +124,7 @@
 </p>
 <br>
 
-<span>&#8618;</span> ML & AI 🤖/🧠
-<br>
-<p align='center'>
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="450" height="200" frameBorder="0"
-        class="giphy-embed" allowFullScreen></img>
-</p>
+
 <br>
 <p align='center'>
     <img
