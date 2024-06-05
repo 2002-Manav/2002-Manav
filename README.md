@@ -8,8 +8,7 @@
     <a href=""</a>
 </p>
 <hr />
-<h4 align="center">I am a Student at IITE,Indus University, B.TECH in CE. I am passionate about coding, designing, and development. <br>
-                   I'm Eager to embrace challenges, learn, connect with diverse individuals, and share knowledge and positivity.</h4>
+<h4 align="center">Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
 <br>
 
 
