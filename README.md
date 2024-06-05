@@ -94,9 +94,9 @@
 <br>
 <p align='center'>
     <a href="https://www.instagram.com/manav__77" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manav-madlani-975587202" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
 
