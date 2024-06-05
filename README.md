@@ -17,20 +17,6 @@
         class="giphy-embed" allowFullScreen></img>
 </p>
 <hr>
-
-<br>
-
-<span>&#8618;</span> Github Contribution Streak 🔥
-<br>
-<br>
-
-<br>
-
-<hr><br>
-
-<span>&#8618;</span> Github Stats &nbsp;📊
-<br>
-<hr>
 <br>
 
 <span>&#8618;</span> Programming Languages 👨‍💻
@@ -103,8 +89,7 @@
 <span>&#8618;</span> Hosting 🌎
 <br>
 <p align='center'>
-    <img
-        src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
+   &nbsp;&nbsp;
     <img
         src="https://img.shields.io/badge/github%20pages-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
@@ -140,7 +125,17 @@
 
 <hr>
 <br>
+<span>&#8618;</span> Github Contribution Streak 🔥
 <br>
+<br>
+
+<br>
+
+<hr><br>
+
+<span>&#8618;</span> Github Stats &nbsp;📊
+<br>
+<hr>
 
 <br>
 
