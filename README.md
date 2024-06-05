@@ -8,7 +8,10 @@
     <a href=""</a>
 </p>
 <hr />
-<h4 align="center">Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
+        <br>
+<div style="text-align: center;">
+    <h4>Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
+</div>
 <br>
 
 
@@ -120,9 +123,6 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
-<hr>
-<br>
-
 <hr>
 <br>
 <span>&#8618;</span> Github Contribution Streak 🔥
