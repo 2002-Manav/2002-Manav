@@ -8,6 +8,7 @@
     <a href=""</a>
 </p>
 <hr />
+<a href="https://app.daily.dev/manav_7"><img src="https://api.daily.dev/devcards/v2/6kB0Wn1Ie4aue7d3AGuNv.png?type=default&r=3e8" width="356" alt="Manav Madlani's Dev Card"/></a>
         <br>
 <div style="text-align: center;">
     <h4>Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
