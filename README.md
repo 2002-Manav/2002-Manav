@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<a href="https://app.daily.dev/manav_7"><img src="https://api.daily.dev/devcards/v2/6kB0Wn1Ie4aue7d3AGuNv.png?type=default&r=3e8" width="356" alt="Manav Madlani's Dev Card"/></a>
+<a href="https://app.daily.dev/manav_7"><img src="https://api.daily.dev/devcards/v2/6kB0Wn1Ie4aue7d3AGuNv.png?type=wide&r=7mo" width="652" alt="Manav Madlani's Dev Card"/></a>
 
 <hr>
 <br>
