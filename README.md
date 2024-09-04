@@ -10,7 +10,7 @@
 <hr />
         <br>
 <div style="text-align: center;">
-    <h4>Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
+    <h4>Graduated with a B.Tech in Computer Engineering, I am passionate about coding, design, and development. With strong front-end skills in HTML, CSS, JavaScript, Bootstrap, React.js, and MUI, alon with .net, C#, Angular Js & MySql; I am eager to tackle challenges, continuously learn, connect with diverse individuals, and share knowledge and positivity.</h4>
 </div>
 <br>
 
